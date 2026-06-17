@@ -51,5 +51,10 @@ The sniffer dynamically parses data starting from the Network Layer (Layer 3) do
 ### Prerequisites
 1. Ensure Python 3.x is installed.
 2. Install the Scapy framework:
-   ```bash
    pip install scapy
+3.Install the Npcap packet driver (Ensure "Install Npcap in WinPcap API-compatible Mode" is checked during setup).
+
+### Running the Sniffer
+Open your terminal or IDE (VS Code) as Administrator and run:
+    python sniffer.py
+ 
