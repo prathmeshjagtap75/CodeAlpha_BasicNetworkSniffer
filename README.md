@@ -58,6 +58,6 @@ The sniffer dynamically parses data starting from the Network Layer (Layer 3) do
 
 ### Running the Sniffer
 Open your terminal or IDE (VS Code) as Administrator and run:
-  
-    python sniffer.py
+   
+   python sniffer.py
  
